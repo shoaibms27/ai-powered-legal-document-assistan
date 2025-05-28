@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+.env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Environment variables and secrets
+.env
+
+# Uploaded files (temporary data)
+data/uploaded_docs/ 

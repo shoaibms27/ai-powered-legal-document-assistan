@@ -1,0 +1,7 @@
+streamlit
+langchain
+sentence-transformers
+groq
+PyMuPDF
+python-dotenv
+faiss-cpu
