@@ -5,3 +5,4 @@ groq
 PyMuPDF
 python-dotenv
 faiss-cpu
+langchain-groq
