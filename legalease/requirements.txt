@@ -6,3 +6,4 @@ PyMuPDF
 python-dotenv
 faiss-cpu
 langchain-groq
+langchain-community
