@@ -13,6 +13,8 @@ st.title("LegalEase: AI-Powered Legal Document Assistant")
 
 load_dotenv()
 
+os.makedirs(os.path.join(os.path.dirname(__file__), "data", "uploaded_docs"), exist_ok=True)
+
 if 'vectorstore' not in st.session_state:
     st.session_state['vectorstore'] = None
 if 'texts' not in st.session_state:
